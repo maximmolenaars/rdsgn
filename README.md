@@ -9,6 +9,8 @@ De No2ocd app is momenteel niks anders dan een digitale registratie tool, waar a
 - een trigger gebaseerd op het weer
 - een trigger die vanuit de persoonlijke agenda komt.
 
+Ik wil deze uitdaging in Framer.js uitwerken. Omdat Framer.js webbased is zou het mogelijk zijn om een Geolocation API toe te voegen binnen Framer.js.
+
 <h3>Hoe heb ik onderzoek aangepakt?</h3> 
 Ik heb deskresearch gedaan naar de mogelijkheden binnen de techniek van de verschillende triggers en wat de voor- en nadelen kunnen zijn.
 <h5>Wat zijn de resultaten</h5>
@@ -20,6 +22,9 @@ Een trigger vanuit de persoonlijke agenda van de gebruiker is ideaal als de app 
 
 <h3>Conclusie: antwoord op wat je wilde weten</h3>
 Triggers in de vorm van push notificaties kunnen erg effectief zijn als ze juist worden ontworpen, daarmee doel ik op wanneer de gebruiker verwacht een trigger te ontvangen. Een trigger op basis van GPS is accuraat en helpt de gebruiker als de trigger de juiste, leuke informatie laat zien. Het is belangrijk om de No2ocd-app écht een deel uit het dagelijks leven van de patiënt te maken, omdat notificaties uit apps met een hoge engagement ontzettend effectief blijken te zijn. 
+
+<h3>Technische uitdaging</h3>
+Er zijn niet veel recourses te vinden over hoe geolocatie toe te voegen is binnen Framer.js, vandaar dat het denk ik verstandig is om eerst de core werkend te krijgen (JavaScript + HTML), om hem daarna (als de tijd het toelaat) in Framer.js te implenteren.
 
 <h3>Hoofdvraag:</h3>
 Hoe kunnen we OCD-patiënten hun proces laten monitoren en ervoor zorgen dat OCD patiënten op de juiste momenten getriggerd worden om hun exposure opdrachten uit te voeren.
