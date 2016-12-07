@@ -1,11 +1,16 @@
 # rdsgn
 
 Inleiding, wat wil je weten?
-- Wat maakt een dashboard bruikbaar?
-- welke informatie is belangrijk om te laten zien?
-- Welke notificaties werken
+De No2ocd app is momenteel niks anders dan een digitale registratie tool, waar alleen tekst na een exposure opdracht kan worden ingevoerd. Uit de interviews kwam naar voren dat een trigger om een opdracht uit te voren erg gewenst is. Vervolgens zijn we na gaan denken wat voor triggers van toepassing kunnen zijn, hieruit kwamen de volgende triggers:
+- een trigger gebaseerd op de tijd.
+- een trigger gebaseerd op afstand/snelheid
+- een trigger gebaseerd op locatie
+- een trigger gebaseerd op andere mensen
+- een trigger gebaseerd op het weer
+- een trigger die vanuit de persoonlijke agenda komt.
 
 Hoe heb ik onderzoek aangepakt? 
+
 Wat zijn de resultaten
 Conclusie: antwoord op wat je wilde weten…
 
