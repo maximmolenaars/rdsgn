@@ -1,6 +1,6 @@
 # rdsgn
 
-Inleiding, wat wil je weten?
+_Inleiding, wat wil je weten?_
 De No2ocd app is momenteel niks anders dan een digitale registratie tool, waar alleen tekst na een exposure opdracht kan worden ingevoerd. Uit de interviews kwam naar voren dat een trigger om een opdracht uit te voren erg gewenst is. Vervolgens zijn we na gaan denken wat voor triggers van toepassing kunnen zijn, hieruit kwamen de volgende triggers:
 - een trigger gebaseerd op de tijd.
 - een trigger gebaseerd op afstand/snelheid
